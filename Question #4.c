@@ -1,3 +1,10 @@
+//Question 4:
+/* Customers can choose their crust to suit their preference. Each crust selection has a distinct
+pricing addition: Regular crust costs $0, thin crust adds $1, and Stuffed crust adds $2. Write a
+program that asks the cashier to enter the current total cost of the order. Then, prompt for the
+crust type choice (1 for regular, 2 for Thin, 3 for Stuffed). Use conditional branches to add the
+appropriate surcharge to the total and print the new updated bill total. */
+
 #include <stdio.h>
 
 int main() {
@@ -30,3 +37,4 @@ int main() {
 
     return 0;
 }
+
