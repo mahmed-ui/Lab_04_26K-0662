@@ -1,3 +1,15 @@
+//Question 10:
+/* Integrate all the rules from Questions 1 to 9 into a single complete C program. The program
+must sequentially:
+ 1. Input and validate the pizza size and count.
+ 2. Apply the dynamic base pricing discount package.
+ 3. Request crust type and cheese choice, adding relevant fees.
+ 4. Prompt for the current hour and apply the 10% Happy Hour discount if appropriate.
+ 5. Deduct the $2 student discount if they present an ID.
+ 6. Evaluate the free garlic bread bonus eligibility.
+ 7. Add delivery fees if chosen.
+ 8. Print a beautifully clean, structured invoice with itemized charges and the final total cost. */
+ 
 #include <stdio.h>
 
 int main() {
