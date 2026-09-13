@@ -4,7 +4,7 @@ This repository contains Lab 04 Tasks
 ## Lab 04 – Basic Decision Structures (C Programming)
 
 ### 📌 Overview
-This repository contains my solutions for Lab 04: Basic Decision Structures, part of the Programming Fundamentals coursework (Section BCS-1D). The lab is built around a single real-world scenario — digitizing order-taking for Slice & Dice Pizza Palace — and explores if, if-else, else-if ladders, and logical operators in C through 10 progressively integrated tasks.
+This repository contains my solutions for Lab 04: Basic Decision Structures, part of the Programming Fundamentals coursework (Section BCS-1D). The lab is built around a single real-world scenario — digitizing order-taking for Slice & Dice Pizza Palace — and explores if, if-else, else-if ladders, and logical operators in C through 10 progressively integrated tasks/questions.
 
 ### 🍕 Scenario
 A console-based billing system for a pizza shop that:
