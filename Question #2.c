@@ -5,7 +5,6 @@ of pizzas the customer wants. If the customer is buying more than 1 pizza, displ
 promotional reminder on the screen: 'Check our multi-pizza deals.' Otherwise, calculate the
 total price directly at $8 per pizza, and output: 'Your total is $8.' */
 
-
 #include <stdio.h>
 
 int main() {
@@ -24,4 +23,3 @@ int main() {
 
     return 0;
 }
-
