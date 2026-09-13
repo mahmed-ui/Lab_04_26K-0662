@@ -1,3 +1,10 @@
+//Question 5:
+/* Extra cheese is a popular option that carries a fixed preparation fee of $1.50. Write a program
+that prompts the cashier for the current order total, then asks: 'Do you want extra cheese
+(Y/N)?'. Check the character input. If the cashier enters 'Y' or 'y', add $1.50 to the current total
+cost and print the updated total. If they enter 'N' or 'n', keep the total unchanged. Handle any
+invalid characters with a polite warning. */
+
 #include <stdio.h>
 
 int main() {
@@ -22,3 +29,4 @@ int main() {
 
     return 0;
 }
+
