@@ -1,3 +1,10 @@
+//Question 9:
+/* The store handles both pick-up orders and deliveries. A home delivery option adds a logistics
+and fuel surcharge of $3.00 to the bill. Write a program that inputs the order total, and then
+asks: 'Fulfillment Option (1. Pickup, 2. Delivery)'. Use a decision structure. If '2' is chosen, add
+$3.00 to the total. If '1' is chosen, add nothing. Calculate and output the final total cost of the
+order. */
+
 #include <stdio.h>
 
 int main() {
