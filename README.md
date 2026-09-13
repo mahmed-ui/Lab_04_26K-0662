@@ -37,7 +37,7 @@ Input validation for integers and characters
 Structured console output (formatted receipts)
 
 ### 👤 Author
-Name: Mohammad Ahmed Roll No: 26K-0662 Section: BCS-1D Course: Programming Fundamentals Lab
+Name: Mohammad Ahmed / Roll No: 26K-0662 / Section: BCS-1D / Course: Programming Fundamentals Lab
 
 ### 📅 Lab Info
-Lab 04 – Basic Decision Structures Date: September 10, 2026
+Lab 04 – Basic Decision Structures / Date: September 10, 2026
